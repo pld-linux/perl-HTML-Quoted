@@ -16,7 +16,7 @@ Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	dc614a27838ee3218f32738de1881e1f
 # generic URL, check or change before uncommenting
-#URL:		http://search.cpan.org/dist/HTML-Quoted/
+URL:		http://search.cpan.org/dist/HTML-Quoted/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
