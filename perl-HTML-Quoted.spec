@@ -8,13 +8,13 @@
 Summary:	HTML::Quoted - extract structure of quoted HTML mail message
 #Summary(pl.UTF-8):	
 Name:		perl-HTML-Quoted
-Version:	0.03
+Version:	0.04
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	dc614a27838ee3218f32738de1881e1f
+# Source0-md5:	1624801f0f505e65e8b067816039a296
 # generic URL, check or change before uncommenting
 URL:		http://search.cpan.org/dist/HTML-Quoted/
 BuildRequires:	perl-devel >= 1:5.8.0
