@@ -4,7 +4,6 @@
 #
 %define		pdir	HTML
 %define		pnam	Quoted
-%include	/usr/lib/rpm/macros.perl
 Summary:	HTML::Quoted - extract structure of quoted HTML mail message
 #Summary(pl.UTF-8):	
 Name:		perl-HTML-Quoted
